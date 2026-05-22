@@ -160,3 +160,19 @@ Method -> GET - Time -> 1779384624408 - URL -> /api/users/
 Method -> POST - Time -> 1779385487085 - URL -> /api/users
 
 Method -> POST - Time -> 1779385506319 - URL -> /api/users
+
+Method -> GET - Time -> 1779436480454 - URL -> /
+
+Method -> GET - Time -> 1779436480503 - URL -> /favicon.ico
+
+Method -> GET - Time -> 1779436502835 - URL -> /api/users
+
+Method -> GET - Time -> 1779436510411 - URL -> /
+
+Method -> GET - Time -> 1779438987934 - URL -> /api/users
+
+Method -> GET - Time -> 1779438989407 - URL -> /
+
+Method -> GET - Time -> 1779438992150 - URL -> /
+
+Method -> GET - Time -> 1779439001944 - URL -> /api/users
